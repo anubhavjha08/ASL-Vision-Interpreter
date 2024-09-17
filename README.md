@@ -9,7 +9,7 @@ This project focuses on detecting and interpreting hand signs for the first thre
 
 ## **Technologies Used:**
 - **OpenCV** for image and video processing
-- **TensorFlow/Keras** for machine learning model development
+- **Mediapipe**
 - **Python** for overall code implementation
 
 ## **Setup Instructions:**
