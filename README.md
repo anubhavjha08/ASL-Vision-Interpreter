@@ -24,7 +24,8 @@ This project focuses on detecting and interpreting hand signs for the first thre
    
 3. **Create and activate a virtual environment:**
     ```bash
-   cd ASL-Vision-Interpreter
+   python3 -m venv signlang-venv
+   source signlang-venv/bin/activate
     
 4. **Install the required dependencies:**
    ```bash
